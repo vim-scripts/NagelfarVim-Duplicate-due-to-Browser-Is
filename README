@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3750
+
+Vim integration of Nagelfar for checking .tcl files.
+This is done using the compiler/quickfix features of Vim.
+Contains several useful features, some off by default.
+See the included documentation for details.
+
+Nagelfar can be downloaded from <http://nagelfar.berlios.de/&gt;
+
+The plugin lives at: https://github.com/LStinson/Nagelfar-Vim
